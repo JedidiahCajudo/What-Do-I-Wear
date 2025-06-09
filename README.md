@@ -7,7 +7,6 @@ A stylish, AI-powered app to help you choose the perfect outfit for any occasion
 ## 🚀 Features
 
 - **AI Style Coach**: Get instant style recommendations based on your personal preferences and photos.
-- **Celebrity Style Twin**: Find style inspiration by comparing yourself to your celebrity doppelgänger.
 - **User Authentication**: Secure login and registration with Devise.
 - **Outfit Suggestions**: Receive curated outfits with matching pieces and accessories.
 - **Responsive Design**: A smooth, mobile-friendly user experience powered by Bootstrap.
