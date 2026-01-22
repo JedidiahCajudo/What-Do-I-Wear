@@ -1,9 +1,4 @@
-<table>
-<tr>
-<td>
-  <img src="whatdoiwearscreenshot.png" width="256" alt="app screenshot">
-</td>
-<td>
+<img src="whatdoiwearscreenshot.png" width="256" alt="app screenshot">
 
 # What-Do-I-Wear App
 
@@ -74,7 +69,3 @@ Bootstrap: v5.2
 Stimulus & Turbo: For dynamic behavior
 
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
-
-</td>
-</tr>
-</table>
