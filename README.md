@@ -30,17 +30,17 @@ A stylish, AI-powered app to help you choose the perfect outfit for any occasion
 
 ## Setup
 
-To set up the app locally, follow these steps:
-
+```
 git clone https://github.com/your-username/what-do-i-wear.git
 cd what-do-i-wear
 bundle install
 rails db:create db:migrate
-
+```
 _##create an env. file and add your API keys. We used Cloudinary##_
 
+```
 rails server
-
+```
 _##You should now be able to access the app at http://localhost:3000.##_
 
 Features to Come
