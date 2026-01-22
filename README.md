@@ -31,7 +31,7 @@ A stylish, AI-powered app to help you choose the perfect outfit for any occasion
 ## Setup
 
 ```
-git clone https://github.com/your-username/what-do-i-wear.git
+git clone https://github.com/JedidiahCajudo/what-do-i-wear.git
 cd what-do-i-wear
 bundle install
 rails db:create db:migrate
