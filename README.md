@@ -1,4 +1,6 @@
-<img src="whatdoiwearscreenshot.png" width="256" alt="app screenshot">
+<td>
+  <img src="whatdoiwearscreenshot.png" width="256" alt="app screenshot">
+</td>
 
 # What-Do-I-Wear App
 
