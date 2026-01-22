@@ -1,10 +1,12 @@
+![screenshot](whatdoiwearscreenshot.png)
+
 # What-Do-I-Wear App
 
 A stylish, AI-powered app to help you choose the perfect outfit for any occasion. With the *What-Do-I-Wear* app, you can upload your photos, get personalized style advice, and never wonder what to wear again.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **AI Style Coach**: Get instant style recommendations based on your personal preferences and photos.
 - **User Authentication**: Secure login and registration with Devise.
@@ -25,7 +27,7 @@ A stylish, AI-powered app to help you choose the perfect outfit for any occasion
 
 ---
 
-## 📦 Setup
+## Setup
 
 To set up the app locally, follow these steps:
 
@@ -40,14 +42,14 @@ rails server
 
 _##You should now be able to access the app at http://localhost:3000.##_
 
-💡 Features to Come
+Features to Come
 Outfit Tracker: Prevents you from repeating an outfit add your desired frequency.
 
 Popular Pieces: Shows you how often users across the app choose each piece.
 
 Outfit Sharing: Share your outfits with friends or the community.
 
-🤝 Contributing
+Contributing
 Feel free to fork the repository and make contributions.
 Create an issue for bugs or suggestions, and submit a pull request for new features or fixes!
 
