@@ -1,4 +1,4 @@
-![screenshot](whatdoiwearscreenshot.png)
+<img src="whatdoiwearscreenshot.png" width="256" alt="app screenshot">
 
 # What-Do-I-Wear App
 
