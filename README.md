@@ -1,4 +1,4 @@
-<img src="WWIW PWA.png" width="256" alt="homescreen"> <img src="WWIW Show.png" width="256" alt="lastscreen">
+<img src="WWIW PWA.png" width="256" alt="homescreen">
 
 
 # What-Do-I-Wear App
